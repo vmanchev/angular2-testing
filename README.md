@@ -1,4 +1,4 @@
-# Angular2Testing
+# Angular5Testing
 
 The purpose of this project is to showcase different Angular unit test examples 
 with 100% code coverage. Each one of them is focused on particular topic and 
